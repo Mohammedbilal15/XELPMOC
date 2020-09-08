@@ -1,0 +1,27 @@
+form {
+  background-color: lightgrey;
+  width: 100%;
+  border: 15px #3CBC8D;
+  align: center;
+  padding: 50px;
+  margin: 20px;
+}
+h1{
+font-family: "Comic Sans MS", cursive, sans-serif;
+}
+p{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+label{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+	
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  text-align: center;
+   background-color: #3CBC8D;
+  color: white;
+}
